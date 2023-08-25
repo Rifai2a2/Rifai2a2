@@ -1,9 +1,17 @@
-### Hi there 👋
+# Halo Semua 👋
+
+Perkenalkan nama saya **Muhammad Rifai Sipayung**.  
+
+Saya Mahasiswa Teknologi Informasi di Universitas Pembangunan Panca Budi Medan dan saat ini sedang mengikut program MSIB Bangkit Academy Batch 2 2023.
+
+
+
 
 <!--
 **Rifai2a2/Rifai2a2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
