@@ -1,9 +1,13 @@
 # Halo Semua 👋
 
-Perkenalkan nama saya **Muhammad Rifai Sipayung**.  
+My name is **Muhammad Rifai Sipayung**.
+- 👩‍🎓 I’m currently studying in University of Pembangunan Pancabudi , majoring Information Technology
+- 📝 I’m currently learning Android Mobile Application
+- 💬 Interested to Android Mobile Application
+- ⚡ Fun fact: I'm an Introvert but I can adapt quickly
 
-Saya Mahasiswa Teknologi Informasi di Universitas Pembangunan Panca Budi Medan dan saat ini sedang mengikut program MSIB Bangkit Academy Batch 2 2023.
 
+I am an Information Technology student at Pembangunan Panca Budi University in Medan and currently participating in the MSIB Bangkit Academy Batch 2 2023 program.
 
 ### Github Statistic
 <p align="left">
@@ -19,7 +23,7 @@ Saya Mahasiswa Teknologi Informasi di Universitas Pembangunan Panca Budi Medan d
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
