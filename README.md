@@ -1,4 +1,4 @@
-# Halo Semua 👋
+# Hello Everyone 👋
 
 My name is **Muhammad Rifai Sipayung**.
 - 👩‍🎓 I’m currently studying in University of Pembangunan Pancabudi , majoring Information Technology
