@@ -1,13 +1,14 @@
-# Hello Everyone 👋
+# Hello everyone 👋
 
 My name is **Muhammad Rifai Sipayung**.
-- 👩‍🎓 I’m currently studying in University of Pembangunan Pancabudi , majoring Information Technology
-- 📝 I’m currently learning Android Mobile Application
-- 💬 Interested to Android Mobile Application
-- ⚡ Fun fact: I'm an Introvert but I can adapt quickly
+- 👩‍🎓 I am currently studying at Universitas Pembangunan Pancabudi majoring in Information Technology.
+- 📝 I am currently studying Data Analyst at DataCamp
+- 💬 Interested in Data Analysts
+- Fun facts: I am an Introvert but I can adapt quickly.
 
 
-I am an Information Technology student at Pembangunan Panca Budi University in Medan and currently participating in the MSIB Bangkit Academy Batch 2 2023 program.
+I am a student majoring in Informatics Engineering at Universitas Pembangunan Panca Budi Medan and currently participating in the DataCamp 2024 Scholarship with GDSC Mercu Buana.
+
 
 ### Github Statistic
 <p align="left">
